@@ -5,7 +5,8 @@ import 'package:flutter/material.dart';
 class App extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(title: "My App ", home: HomePage());
+    return MaterialApp(title: "My App1 ", home: HomePage());
   }
 
   }
+
